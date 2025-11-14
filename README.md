@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Emmanuel Camacho]
+# ¡Hola! 👋 Soy Emmanuel Camacho
 
 ## 💼 Desarrollador Full Stack Junior
 
@@ -10,8 +10,8 @@ Apasionado por crear soluciones web innovadoras y funcionales.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 📊 GitHub Stats
-![Mis stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![Mis stats](https://github-readme-stats.vercel.app/api?username=EmmanuelCamach&show_icons=true)
 
 ### 📫 Contacto
-- LinkedIn: [https://www.linkedin.com/in/emmanuelcamachocruz/]
+- LinkedIn: https://www.linkedin.com/in/emmanuelcamachocruz/
 - Email: emmanuelCamacho122005@email.com
